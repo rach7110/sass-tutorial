@@ -1,0 +1,7 @@
+/*Must compile into css with Sass compiler*/
+/*Variables in Sass assigned with $*/
+header {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: lightgrey;
+  border: 1px solid #393939;
+  color: #535353; }
